@@ -38,6 +38,6 @@ var JSONBingo = {"squares": [
         {"square": "HE'S GOT A BEE IN HIS BONNET"}, 
         {"square": "HE GOT UNDRESSED"},    	
         {"square": "BANGS"},    	
-        {"square": "HOW'S YOUR ENTERTAINMENT FACTOR TONIGHT‽"}    	
+        {"square": "MARTHA, THE BARN IS ON FIRE!"}    	
     ]
 };
