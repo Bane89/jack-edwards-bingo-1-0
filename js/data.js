@@ -15,7 +15,7 @@ var JSONBingo = {"squares": [
         {"square": "EXECUTIVE DESK TOY HIT"},
         {"square": "SAVE BY RASK!"},
         {"square": "FLIPS THE CAN OF CORN"},
-        {"square": "[PLAYER NAME] SAYS 'HOW DO YOU DO?'"},
+        {"square": "[PLAYER NAME] SAYS 'HOW DO YOU DO‽'"},
         {"square": "I THOUGHT I HEARD POST!"},
         {"square": "STICKS A FORK IN IT!"},
         {"square": "TUMBLING MUFFIN"},
@@ -38,6 +38,6 @@ var JSONBingo = {"squares": [
         {"square": "HE'S GOT A BEE IN HIS BONNET"}, 
         {"square": "HE GOT UNDRESSED"},    	
         {"square": "BANGS"},    	
-        {"square": "IDK"}    	
+        {"square": "HOW'S YOUR ENTERTAINMENT FACTOR TONIGHT‽"}    	
     ]
 };
